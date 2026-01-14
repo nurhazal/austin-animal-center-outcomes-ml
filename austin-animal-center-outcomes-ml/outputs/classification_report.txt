@@ -1,0 +1,15 @@
+Accuracy: 0.7293
+
+                 precision    recall  f1-score   support
+
+       Adoption       0.85      0.56      0.68      3166
+           Died       0.00      0.00      0.00       109
+       Disposal       0.00      0.00      0.00         2
+     Euthanasia       0.56      0.05      0.10       460
+        Missing       0.00      0.00      0.00        10
+Return to Owner       0.00      0.00      0.00        53
+       Transfer       0.69      0.93      0.79      4749
+
+       accuracy                           0.73      8549
+      macro avg       0.30      0.22      0.22      8549
+   weighted avg       0.73      0.73      0.70      8549

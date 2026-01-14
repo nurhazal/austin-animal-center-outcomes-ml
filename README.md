@@ -31,25 +31,45 @@ Bu proje kapsamında:
 ## 🗂️ Proje Dosya Yapısı
 
 Austin_Animal_Center_Project/
+
 │
+
 ├── data/
+
 │ ├── raw
+
 │ │   └── Austin_Animal_Center_Outcomes.csv
+
 │ └── processed
+
 │     └── Austin_Animal_processed.csv
+
 │ 
+
 ├── notebooks/
+
 │ ├── 01_data_exploration.ipynb
+
 │ ├── 02_data_preprocessing.ipynb
+
 │ └── 03_data_modeling.ipynb
+
 │
+
 ├── outputs/
+
 │ ├── confusion_matrix.png
+
 │ ├── feature_importance.png
+
 │ ├── classification_report.txt
+
 │ └── model_accuracy.txt
+
 │
+
 ├── README.md
+
 
 
 ---
